@@ -18,10 +18,8 @@ Push Dockerized image to my Docker hub repository, you can pull it from that lin
 
  
 
-I uploaded all code snippet and screenshots on my github repo. 
+I uploaded all code snippets and screenshots to my GitHub repository in three .RAR files, each corresponding to a different encryption technique. 
 
  
 
 https://github.com/2asaby/gig.git 
-
- 
