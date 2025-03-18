@@ -4,9 +4,9 @@ Design python app that runs on Raspberry Pi kit and Dockerize the app
 
 Steps: 
 
-Design python app with 3 versions that implement 3 different encryption techniques. 
+Design a Python app with three versions, each implementing a different encryption technique. 
 
-Set up the testing environment and test the app. 
+Configure the testing environment and conduct tests on the application. 
 
 Dockerized the app to ensure a consistent environment on both my system and the client's system, preventing any configuration conflicts. 
 
@@ -14,7 +14,9 @@ Push Dockerized image to my Docker hub repository, you can pull it from that lin
 
  
 
-“ docker pull 2asaby/encryption_app_new:latest ” 
+https://hub.docker.com/r/2asaby/encryption_app_new  
+
+ 
 
  
 
@@ -23,9 +25,5 @@ I uploaded all code snippets and screenshots to my GitHub repository in three .R
  
 
 https://github.com/2asaby/gig.git 
-
- 
-
- 
 
  
